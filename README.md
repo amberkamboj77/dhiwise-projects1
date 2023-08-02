@@ -1,4 +1,4 @@
-## amber_banking_app
+## Banking Application
 
 Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
 
